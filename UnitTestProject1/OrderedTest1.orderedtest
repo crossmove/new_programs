@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="orderedtest1" storage="f:\git\main_sln2\unittestproject1\orderedtest1.orderedtest" id="91d03e58-f93d-4556-9318-e59453366c3a" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestLinks>
+    <TestLink id="ccf4a1c5-7ae4-3e2d-0940-256007cdfbbf" name="ClickContactUs" storage="..\testsuite\bin\debug\testsuite.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="2c9fb8d0-68e6-83f2-b410-dcf82a340a10" name="ContactUsTestflow21" storage="..\testsuite\bin\debug\testsuite.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>
