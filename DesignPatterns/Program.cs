@@ -10,7 +10,7 @@ namespace DesignPatterns
     {
     public static void Main()
         {
-
+            //Today is my day
         }     
     }
     
