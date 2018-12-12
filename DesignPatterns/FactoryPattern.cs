@@ -16,6 +16,7 @@ namespace DesignPatterns
             if (value == "petrol")
             {
                 return new Car();
+                //Factory Pattern
             }
 
             else
